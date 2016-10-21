@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test from master
-=======
 test for new feature
->>>>>>> origin/master
+
